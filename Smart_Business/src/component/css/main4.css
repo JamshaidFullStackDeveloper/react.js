@@ -1,0 +1,36 @@
+
+.m-contanir4{
+    padding: 30px 300px;
+    
+}
+
+.chaild-mc4{
+    display: flex;
+    justify-content: space-between;
+
+}
+.m4-item{
+
+    width: 220px;
+    height: 300px;
+    padding: 20px;
+    text-align: center;
+    }
+
+.m-contanir4 h1{
+    text-align: center;
+    font-size: 40px;
+}
+.item2{
+    background-color: #0f0f41;
+    width: 250px;
+    height: 280px;
+    color: white;
+    border-radius: 15px;
+}
+.btn-2{
+    background-color: #7fffd4;
+}
+.btn2:hover{
+    background-color: #007272;
+}

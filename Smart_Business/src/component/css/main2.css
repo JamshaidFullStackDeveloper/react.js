@@ -1,0 +1,18 @@
+
+.m-contanir2{
+    display: flex;
+    background-color: gainsboro;
+    margin-top: 150px;
+    padding: 70px 300px;
+}
+.m2-item img{
+    width: 300px;
+    height: 200px;
+}
+.btn1{
+    width: 150px;
+    height: 50px;
+}
+.btn1:hover{
+    background-color: #005555;
+}

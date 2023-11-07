@@ -1,0 +1,49 @@
+
+.f-contanir{
+    padding: 30px 300px;
+    display: flex;
+    gap: 60px;
+    background-color: rgb(218, 218, 218);
+}
+.f-contanir2{
+    background-image: url("../img/img/banner-bk.jpg");
+    display: flex;
+    flex-wrap: wrap;    
+    color: white;
+    padding: 30px 300px;
+    gap: 25px;
+}
+.f2-item{
+    width: 350px;
+    height: 300px;
+}
+.input1{
+    margin: 10px;
+    display: block;
+    height: 30px;
+    border: 1px solid rgb(92, 241, 192);
+    background: none;
+    width: 200px;
+
+}
+.btn-4{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(92, 241, 192);
+    border-radius: 13px;
+}
+.input2{
+    width: 300px;
+    height: 50px;
+    border: 1px solid rgb(92, 241, 192);
+    background: none;
+    margin: 10px;
+    
+}
+.input3{
+    display: inline-block;
+}
+
+.lab{
+    display: block;
+}

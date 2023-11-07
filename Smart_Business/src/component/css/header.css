@@ -1,0 +1,30 @@
+.body{
+    width: 1300;
+    margin: 0 auto;
+}
+.h-contanir{
+    background-image: url("../img/img/banner-bk.jpg");
+    background-size: cover;
+    padding: 100px 300px;
+    color: #ffffff;
+}
+.btn{
+    background-color: #7fffd4;
+    border-radius: 15px;
+    height: 32px;
+    width: 120px;
+    border: none;
+
+}
+.btn:hover{
+    background-color: #028f60;
+}
+.h-item1{
+    display: flex;
+    gap:65%;
+}
+.h-item1 p:hover{
+color: #028f60;
+}
+
+

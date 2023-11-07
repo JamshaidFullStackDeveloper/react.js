@@ -1,0 +1,27 @@
+
+.m-contanir1{
+    padding: 40px 300px;
+}
+.m1-item{
+    width: 200px;
+    height: 100px;
+    gap: 150px;
+
+}
+.chaild-mc{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap ;
+}
+.m-contanir1 h1{
+    text-align: center;
+}
+.btn1{
+    background-color: rgb(15, 15, 73);
+    border: none;
+    border-radius: 13px;
+    width: 100px;
+    height: 35px;
+    color: white;
+    margin-top: 20px;
+}
